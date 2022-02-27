@@ -396,10 +396,10 @@ header{
 
 @media only screen and (max-width: 375px) {
   header {
-    width: 162%;
+    width: 166%;
   }
   .main {
-    width: 162%;
+    width: 165%;
   }
 
 }
@@ -415,10 +415,10 @@ header{
     width: 90%;
   }
   header {
-    width: 190%;
+    width: 194%;
   }
   .main {
-    width: 190%;
+    width: 194%;
   }
   .inner1{
     width: 190%;
